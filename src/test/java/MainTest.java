@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 public class MainTest {
 
     @Autowired
-    private ApplicationContext applicationContext;
+    private ApplicationContext applicationContext; //
 
     @Test
     public void mainTest() {
